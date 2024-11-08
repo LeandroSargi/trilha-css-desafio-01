@@ -238,8 +238,14 @@ h1 {
     width: 90%; /* Ajustar para ocupar a largura da tela em dispositivos menores */
   }
 
+  #course-content > h2 {
+    margin-top: 20px;
+    padding: 0;
+  }
+
   .module {
     width: 90%;
+
   }
 
   /* Texto e imagem no "transform-world" */
